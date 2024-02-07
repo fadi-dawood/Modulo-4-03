@@ -18,3 +18,30 @@
 #photo-container{
     width: 100%;
 }
+
+.search-box{
+    background-image: url(assets/cover.webp);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-box p{
+    font-size: 20pt;
+    font-weight: 700;
+    color: white;
+}
+
+.search-box button{
+    font-weight: 700;
+    color: black;
+    background-color: antiquewhite;
+}
+
+#logo{
+    height: 50px;
+}
